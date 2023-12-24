@@ -1,0 +1,7 @@
+아래와 같은 일을 수행하는 파이썬 코드를 작성해줘. :
+
+주어진 데이터파일 "retail_sales_data.csv"에서 Store 1, Department 16 데이터만 추출하세요.
+Single, Double, Tripple Exponential Smoothing을 진행하여 결과를 구해주세요.
+모든 argument는 0.15 사용 (alpha, beta, gamma) 합니다.
+Tripple Smoothing의 경우 N = 52 사용합니다.
+결과를 그래프로 그려주세요.
